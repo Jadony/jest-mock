@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-23 22:11:23
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-01 11:32:33
- * @FilePath: /jest中的mock/mock.test.js
- * @Description:
- */
 import axios from 'axios';
 import { runFn, getData } from './mock';
 

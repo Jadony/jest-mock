@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-28 15:37:36
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-15 19:23:07
- * @FilePath: /auto-test-jest-learn/6.jest中的mock/mock.js
- * @Description: 
- */
 import axios from 'axios'
 
 export const runFn = (fn) => {

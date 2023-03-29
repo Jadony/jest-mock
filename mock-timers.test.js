@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-03-01 11:33:47
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-01 14:56:29
- * @FilePath: /jest中的mock/mock-timers.test.js
- * @Description: 
- */
 import { timer } from './mock';
 
 jest.setTimeout(300000)
